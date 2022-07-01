@@ -22,6 +22,9 @@
   </a>
 </div>
 
+---
+
+### :man_technologist: About Me :
 
 <!--
 **erviditagarwal/erviditagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
