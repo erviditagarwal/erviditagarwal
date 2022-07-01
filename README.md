@@ -53,6 +53,12 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=erviditagarwal
+
 
 <!--
 **erviditagarwal/erviditagarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
