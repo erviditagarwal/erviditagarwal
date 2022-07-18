@@ -32,6 +32,7 @@
 <a href="https://codeforces.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vidit-agarwal" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vidit-agarwal" height="30" width="40" /></a> -->
 </p>
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
