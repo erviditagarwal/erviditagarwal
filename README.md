@@ -8,12 +8,12 @@
 ![](https://img.shields.io/badge/Vidit-Hacked-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Vidit-Hacked-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-<div id="badges">
+<!-- <div id="badges">
   <a href="https://www.linkedin.com/in/erviditagarwal/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-</div>
+</div> -->
 
 ---
 
