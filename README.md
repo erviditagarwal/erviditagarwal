@@ -1,4 +1,6 @@
 
+<img align="right" width="350" height="350" src="./img/synth-circle.gif">
+
 # <h1 align="center">Hi, I'm VIDIT AGARWAL! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
 
 
